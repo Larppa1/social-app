@@ -5,7 +5,7 @@ export default function Header() {
         <div className="container">
             <div className="navbar bg-base-100">
                 <div className="navbar-start">
-                    <a className="btn btn-ghost normal-case text-xl" href="/">daisyUI</a>
+                    <a className="btn btn-ghost normal-case text-xl" href="/">Social App</a>
                 </div>
                 <div className="navbar-center">
                     

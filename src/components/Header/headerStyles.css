@@ -1,3 +1,7 @@
 .headerContainer {
     min-height: 10vh;
 }
+
+.headerContainer > div:first-child {
+    min-height: 10vh;
+}

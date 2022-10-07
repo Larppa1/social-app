@@ -3,7 +3,7 @@ import Section from '../components/Section/Section'
 
 export default function Home() {
     return(
-        <div className="container">
+        <div className="homeContainer">
             <Header />
             <div className="contentContainer">
                 <Section />

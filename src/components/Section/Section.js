@@ -3,19 +3,9 @@ import './sectionStyles.css'
 export default function Section() {
     return(
         <div className='sectionContainer shadow'>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
-            <p>Hello</p>
+            <div>
+                <h4>{this.props.title}</h4>
+            </div>
         </div>
     )
 }

@@ -5,6 +5,10 @@
     min-height: 28vh;
 }
 
+.sectionContainer > div:first-child {
+    padding: 1em
+}
+
 .sectionContainer::-webkit-scrollbar {
     display: none;
 }

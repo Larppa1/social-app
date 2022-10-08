@@ -7,3 +7,7 @@
     min-height: 25vh;
     border: 1px solid red;
 }
+
+.sectionContainer::-webkit-scrollbar {
+    display: none;
+}

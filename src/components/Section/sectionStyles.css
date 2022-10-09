@@ -6,7 +6,8 @@
 }
 
 .sectionContainer > div:first-child {
-    padding: 1em
+    padding: 1em;
+    min-height: 10%;
 }
 
 .sectionContainer::-webkit-scrollbar {

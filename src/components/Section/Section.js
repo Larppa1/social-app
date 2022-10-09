@@ -1,4 +1,5 @@
 import './sectionStyles.css'
+import Content from '../Content/Content'
 
 export default function Section(props) {
     return(

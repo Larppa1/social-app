@@ -1,7 +1,7 @@
 .sectionContainer {
     display: flex;
     flex-direction: column;
-    padding-inline: 2vw;
+    padding-inline: 3vw;
     min-height: 28vh;
     height: 28vh;
     max-height: 28vh;

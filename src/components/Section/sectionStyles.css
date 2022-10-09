@@ -1,10 +1,11 @@
 .sectionContainer {
     display: flex;
     flex-direction: column;
-    padding-inline: 2vw;
+    padding-inline: 3vw;
     min-height: 28vh;
     height: 28vh;
     max-height: 28vh;
+    overflow-x: auto;
 }
 
 .sectionContainer > div:first-child {
@@ -18,5 +19,6 @@
 
 .sectionContainer > div:last-child {
     border: 1px solid red;
-    min-height: 60%;
+    min-height: 70%;
+    width: 150vw;
 }

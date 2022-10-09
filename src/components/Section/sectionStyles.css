@@ -12,3 +12,7 @@
 .sectionContainer::-webkit-scrollbar {
     display: none;
 }
+
+.sectionContainer > div:last-child {
+    border: 1px solid red;
+}

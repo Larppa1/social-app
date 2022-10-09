@@ -3,10 +3,12 @@
     flex-direction: column;
     padding-inline: 2vw;
     min-height: 28vh;
+    height: 28vh;
+    max-height: 28vh;
 }
 
 .sectionContainer > div:first-child {
-    padding: 1em;
+    padding: 0.5em;
     min-height: 10%;
 }
 
@@ -16,5 +18,5 @@
 
 .sectionContainer > div:last-child {
     border: 1px solid red;
-    min-height: 90%;
+    min-height: 60%;
 }

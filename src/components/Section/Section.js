@@ -10,7 +10,7 @@ export default function Section(props) {
                 </article>
             </div>
             <div>
-                
+                <Content />
             </div>
         </div>
     )

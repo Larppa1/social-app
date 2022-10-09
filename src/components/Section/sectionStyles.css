@@ -10,7 +10,7 @@
 }
 
 .sectionContainer > div:first-child {
-    padding-block: 1em;
+    padding-block: 0.8em;
     min-height: 10%;
 }
 

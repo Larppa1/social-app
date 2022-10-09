@@ -11,6 +11,6 @@ export default function Home() {
                 <Section title="Recommended" />
                 <Section title="Friends" />
             </div>
-        </div>
+        </div> 
     )
 }

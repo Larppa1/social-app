@@ -2,7 +2,7 @@ import './headerStyles.css'
 
 export default function Header() {
     return(
-        <div className="headerContainer">
+        <div className="headerContainer shadow">
             <div className="navbar bg-base-100">
                 <div className="navbar-start">
                     <a className="btn btn-ghost normal-case text-xl"

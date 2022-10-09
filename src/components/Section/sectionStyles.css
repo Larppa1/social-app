@@ -13,10 +13,6 @@
     min-height: 10%;
 }
 
-.sectionContainer::-webkit-scrollbar {
-    display: none;
-}
-
 .sectionContainer > div:last-child {
     display: flex;
     flex-direction: row;
@@ -25,4 +21,8 @@
     height: 70%;
     max-height: 70%;
     overflow-x: auto;
+}
+
+.sectionContainer div:last-child::-webkit-scrollbar {
+    display: none;
 }

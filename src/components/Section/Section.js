@@ -11,6 +11,11 @@ export default function Section(props) {
             </div>
             <div>
                 <Content />
+                <Content />
+                <Content />
+                <Content />
+                <Content />
+                <Content />
             </div>
         </div>
     )

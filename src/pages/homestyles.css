@@ -7,12 +7,8 @@ body {
     padding: 0;
 }
 
-.contentContainer {
+.sectionContainer {
     display: flex;
     flex-direction: column;
     min-height: 90vh;
-}
-
-.contentContainer > Section {
-    padding-block: 2vh;
 }

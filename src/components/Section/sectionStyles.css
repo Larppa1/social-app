@@ -18,6 +18,8 @@
 }
 
 .sectionContainer > div:last-child {
+    display: flex;
+    flex-direction: row;
     border: 1px solid red;
     min-height: 70%;
     height: 70%;

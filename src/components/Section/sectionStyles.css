@@ -3,6 +3,8 @@
     flex-direction: column;
     padding-inline: 2vw;
     min-height: 28vh;
+    height: 28vh;
+    max-height: 28vh;
 }
 
 .sectionContainer > div:first-child {

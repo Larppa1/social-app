@@ -7,7 +7,9 @@ export default function Home() {
         <div className="homeContainer">
             <Header />
             <div className="contentContainer">
-                <Section title="Trending" />
+                <Section title="Trending">
+                    <Content />
+                </Section>
                 <Section title="Recommended" />
                 <Section title="Friends" />
             </div>

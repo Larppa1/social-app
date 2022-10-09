@@ -5,7 +5,7 @@ export default function Home() {
     return(
         <div className="homeContainer">
             <Header />
-            <div className="contentContainer">
+            <div className="sectionContainer">
                 <Section title="Trending" />
                 <Section title="Recommended" />
                 <Section title="Friends" />

@@ -6,6 +6,7 @@
     height: 28vh;
     max-height: 28vh;
     overflow-x: auto;
+    margin-block-end: 5vh;
 }
 
 .sectionContainer > div:first-child {

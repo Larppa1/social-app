@@ -1,5 +1,7 @@
 .contentContainer {
     display: flex;
     flex-direction: column;
-    border: 1px solid red;
+    border: 1px solid green;
+    height: 80%;
+    width: 40%;
 }

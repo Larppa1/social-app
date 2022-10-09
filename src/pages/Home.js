@@ -6,7 +6,7 @@ export default function Home() {
     return(
         <div className="homeContainer">
             <Header />
-            <div className="sectionContainer">
+            <div className="sectionsContainer">
                 <Section title="Trending" />
                 <Section title="Recommended" />
                 <Section title="Friends" />

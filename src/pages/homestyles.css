@@ -7,7 +7,7 @@ body {
     padding: 0;
 }
 
-.sectionContainer {
+.sectionsContainer {
     display: flex;
     flex-direction: column;
     min-height: 90vh;

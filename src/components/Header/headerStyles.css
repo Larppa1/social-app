@@ -1,5 +1,6 @@
 .headerContainer {
     min-height: 8vh;
+    margin-block-end: 1vh;
 }
 
 .headerContainer > div:first-child {

@@ -6,9 +6,15 @@
 }
 
 .sectionContainer > div:first-child {
-    padding: 1em
+    padding: 1em;
+    min-height: 10%;
 }
 
 .sectionContainer::-webkit-scrollbar {
     display: none;
+}
+
+.sectionContainer > div:last-child {
+    border: 1px solid red;
+    min-height: 90%;
 }

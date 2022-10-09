@@ -8,6 +8,9 @@ export default function Section(props) {
                     <h4>{props.title}</h4> 
                 </article>
             </div>
+            <div>
+                
+            </div>
         </div>
     )
 }
